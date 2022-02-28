@@ -32,7 +32,7 @@
     "@types/react-dom": "^17.0.0",
     "autoprefixer": "^9",
     "cross-env": "^7.0.3",
-    "postcss": "^8",
+    "postcss": "npm:@tailwindcss/postcss7-compat@^2.0.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-icons": "^4.2.0",
