@@ -19,7 +19,7 @@ export const WebsiteOverlay: VFC = () => {
           <a href="https://medium.com/@Bilidly" target="blank">
             <FaMedium />
           </a>
-          <a href="https://twitter.com/bilidlyexchange" target="blank">
+          <a href="https://t.me/bilidly" target="blank">
             <FaTelegram />
           </a>
         </div>
