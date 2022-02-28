@@ -4,8 +4,8 @@
   "homepage": "https://bilidly.exchange",
   "private": true,
   "scripts": {
-    "start": "TAILWIND_MODE=watch craco start",
-    "build": "BUILD_PATH=build craco build"
+    "start": "cross-env TAILWIND_MODE=watch craco start",
+    "build": "cross-env BUILD_PATH=build craco build"
   },
   "browserslist": {
     "production": [
